@@ -1,6 +1,6 @@
 <?php
 
-echo "Enter the number \n";
+echo "Enter the number2 \n";
 $handle = fopen ("php://stdin","r");
 $number = fgets($handle);
 
